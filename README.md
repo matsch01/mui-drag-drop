@@ -17,7 +17,7 @@ yarn install
 ```
 yarn unit:watch
 ```
-3. Run test Demo.ct.tsx from UI.
+3. Run test Demo.cy.tsx from UI.
 - The test should pass.
 
 ### Run in 8.9.1 and see that it fails.
@@ -36,7 +36,7 @@ yarn install
 ```
 yarn unit:watch
 ```
-6. Run test Demo.ct.tsx from UI.
+6. Run test Demo.cy.tsx from UI.
 - The test should fail.
 
 
